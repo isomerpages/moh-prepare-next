@@ -1,0 +1,153 @@
+{
+  "layout": "content",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Analytics, Disease and Behaviour Modelling Co-operative led by Professor Kelvin Bryan Tan seeks to grow long-term core expertise in modelling and data science specific to infectious diseases surveillance, early outbreak detection, as well as epidemic response and social behaviour modelling. It will also support social / behavioural research studies on factors that can improve acceptability and adherence to public health interventions. This Co-operative focuses on building research capacity and carrying out epidemiological and modelling research in close collaboration with the Ministry of Health (MOH), and other relevant institutions to inform and guide government policy making."
+        }
+      ]
+    },
+        {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Lead"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "infopic",
+      "title": "Professor Kelvin Bryan Tan",
+      "subtitle": "",
+      "description": "Professor Kelvin Bryan Tan leads the PREPARE Analytics, Disease & Behaviour Modelling Co-Operative. He is also currently Director of the Future Systems Office within the Infocomms Technology and Data Group in the Ministry of Health (MOH). A health economist by training, his research work covers health insurance design, as well as building models for cost effective analysis.",
+      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-1_253x253.jpg?sfvrsn=d2d0d9d3_0",
+      "imageAlt": "Image of Professor Kelvin Bryan Tan",
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "isTextOnRight": false,
+      "variant": "side-by-side"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Goals"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Analytics, Disease and behaviour Modelling Co-operative aims to support a critical mass of big data analytics expertise and epidemiological modelling capabilities to augment existing infectious disease surveillance and infectious disease related simulation efforts. It will coordinate and conduct policy relevant big data analytics and modelling research in collaboration with public agencies. The team will also develop, improve and test/ validate models and modelling methods for rapid deployment during peacetime and crisis periods; gather understanding of individual and social behaviour in response to pandemic measures such safe distancing, vaccine uptake and lastly to generate cost-benefit/cost-effective models to inform policy decisions."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Strategy"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Analytics, Disease and behaviour Modelling Co-operative adopts a policy-driven approach in developing research capabilities. Aligned with this, the co-operative seeks to:"
+        }
+      ]
+    },
+        {
+      "type": "orderedlist",
+      "start": 1,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Build up a core team of analysts, research fellows to provide empirical analysis of government administrative data;"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Embark on key projects with clinicians across all clusters; looking at disease outcomes of patients to jointly analyse data;"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Support disease modelling work at School of Public Health and other institutions;"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Support research work in social behavioural modelling."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "Analytics, Disease & Behaviour Modelling",
+    "contentPageHeader": {
+      "summary": "More on the Analytics, Disease & Behaviour Modelling co-operative programme here."
+    }
+  },
+  "version": "0.1.0"
+}
