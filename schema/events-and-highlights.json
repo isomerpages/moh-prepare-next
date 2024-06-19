@@ -1,0 +1,14 @@
+{
+  "layout": "collection",
+  "content": [],
+  "page": {
+    "title": "Events & Highlights",
+    "contentPageHeader": {
+      "summary": "Learn more about PREPARE here."
+    },
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Read more about our events and highlights here."
+  },
+  "version": "0.1.0"
+}
