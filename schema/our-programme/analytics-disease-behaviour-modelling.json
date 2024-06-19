@@ -2,16 +2,6 @@
   "layout": "content",
   "content": [
     {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "text",
-          "marks": [],
-          "text": "The Analytics, Disease and Behaviour Modelling Co-operative led by Professor Kelvin Bryan Tan seeks to grow long-term core expertise in modelling and data science specific to infectious diseases surveillance, early outbreak detection, as well as epidemic response and social behaviour modelling. It will also support social / behavioural research studies on factors that can improve acceptability and adherence to public health interventions. This Co-operative focuses on building research capacity and carrying out epidemiological and modelling research in close collaboration with the Ministry of Health (MOH), and other relevant institutions to inform and guide government policy making."
-        }
-      ]
-    },
-        {
       "type": "heading",
       "content": [
         {
@@ -35,6 +25,9 @@
       "variant": "side-by-side"
     },
     {
+      "type": "divider"
+    },
+    {
       "type": "heading",
       "content": [
         {
@@ -54,6 +47,9 @@
           "text": "The Analytics, Disease and behaviour Modelling Co-operative aims to support a critical mass of big data analytics expertise and epidemiological modelling capabilities to augment existing infectious disease surveillance and infectious disease related simulation efforts. It will coordinate and conduct policy relevant big data analytics and modelling research in collaboration with public agencies. The team will also develop, improve and test/ validate models and modelling methods for rapid deployment during peacetime and crisis periods; gather understanding of individual and social behaviour in response to pandemic measures such safe distancing, vaccine uptake and lastly to generate cost-benefit/cost-effective models to inform policy decisions."
         }
       ]
+    },
+    {
+      "type": "divider"
     },
     {
       "type": "heading",
@@ -146,7 +142,7 @@
   "page": {
     "title": "Analytics, Disease & Behaviour Modelling",
     "contentPageHeader": {
-      "summary": "More on the Analytics, Disease & Behaviour Modelling co-operative programme here."
+      "summary": "The Analytics, Disease and Behaviour Modelling Co-operative led by Professor Kelvin Bryan Tan seeks to grow long-term core expertise in modelling and data science specific to infectious diseases surveillance, early outbreak detection, as well as epidemic response and social behaviour modelling. It will also support social/behavioural research studies on factors that can improve acceptability and adherence to public health interventions. This Co-operative focuses on building research capacity and carrying out epidemiological and modelling research in close collaboration with the Ministry of Health (MOH), and other relevant institutions to inform and guide government policy making."
     }
   },
   "version": "0.1.0"
