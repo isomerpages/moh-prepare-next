@@ -1,0 +1,547 @@
+{
+  "layout": "content",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "PREPARE is a national programme set up by the Ministry of Health (MOH) to support and strengthen Singapore’s key research capabilities, translational platforms and expertise to develop tools, methods and products that can be tapped on to detect, respond to and contain future infectious disease threats. The National Centre for Infectious Diseases (NCID) serves as the administrative host of PREPARE."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "PREPARE is funded by RIE2020 White Space under the Human Health and Potential domain, and supports five co-operatives designed to focus on bringing scientists, government agencies and policy makers together to enhance early detection and sense-making capabilities, develop key enablers in data infrastructure, analytics and behavioural science research, strengthen capabilities for accelerated development of diagnostics, therapeutics and vaccines as well as develop a strong regional infectious diseases research network."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The key objectives of the <b>PREPARE Diagnostic Co-operative Programme</b> are to integrate complementary, multi-disciplinary R&D capabilities and strengthen linkages along the entire diagnostic development pathway with the goal to curate and assemble cutting-edge diagnostic prototypes to support different priority use cases and prepare for future outbreaks."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The primary objective of the <b>2024 PREPARE Diagnostics Co-operative Strategic Open Grant Call</b> is to support:"
+        }
+      ]
+    },
+        {
+      "type": "orderedlist",
+      "start": 1,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Research and development efforts in critical reagents that support the development of next-generation diagnostics."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Development of novel methodologies and technology platforms intended for rapid detection of pathogen in human clinical materials."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The 2024 PREPARE Diagnostics Co-operative Strategic Open Grant Call will support grant proposals in the following areas:"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "1. Next-Generation Enzymes, Reagent and Workflow for Molecular Diagnostics"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "orderedlist",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
+      "start": 1,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Design and development of high performing enzymes, including but not limited to:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Fast PCR polymerases"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "PCR inhibitor-tolerant polymerases"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "PCR enzyme mixes suitable for decentralized deployment without the need for a cold chain"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Room/low-temperature performing isothermal enzymes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Isothermal enzymes with enhanced detection sensitivity"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Algorithms / software to facilitate the design and development of high performing enzymes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Robust and scalable solution to generate encapsulation for nucleic acid, serving as a quality control for molecular workflow"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Novel low-cost molecular diagnostics, including but not limited to paper-based nucleic acid detection"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Sample preparation platform or workflow suitable for decentralized testing, emphasizing optimized cost, manufacturing, stability, and usability"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "2. Reagents and Workflow for Protein-Based Diagnostics"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "orderedlist",
+      "start": 1,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Methods and technology platforms for rapid epitope mapping, design, screening and selection of antibodies as affinity reagents for rapid protein-based diagnostics"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Methods and technology towards enhanced detection sensitivity and specificity in rapid tests, including but not limited to the development and use of other affinity reagents, biosensors"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Methodologies and technology solution towards multiplexed detection of protein-based analytes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "3. Low cost and simple-to-deploy assays that detect and differentiate live viruses vs non-replicating viral materials from human clinical materials"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Proposals should present strong scientific basis for the principle of technologies to be developed, proof-of-concept and other preliminary evidence that supports the research concept and clear articulation on the pain points that the envisioned technology intends to address, considering the latest research and market landscapes."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Grant proposals in these areas should demonstrate a strong alignment with the <b>Diagnostics Co-operative's</b> goals and show a clear potential for impact on the field of diagnostics. We welcome proposals from multi-disciplinary teams with diverse perspectives and expertise."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+        {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Grant Information"
+        }
+      ],
+      "level": 2
+    },
+        {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Funding Quantum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Quantum: Up to S$500K (including 30% indirect costs)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Funding Duration"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Duration: Up to one (1) year"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Eligibility Criteria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "orderedlist",
+          "start": 1,
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Only one Principal Investigator (PI) is allowed per application."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Research team must comprise researchers from at least two local institutions with at least one co-investigator from a different institute as the PI. Researchers from overseas institutions or private companies can only participate as collaborators."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Grant proposals must indicate clear milestones and checkpoints for Go/NoGo decisions, allowing resources to be redirected towards relevant goals and objectives."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "PREPARE will conduct continuous review of the awarded project with regular progress reports, mid-term review and PREPARE’s Grant Review Committee will have the discretion to suggest re-directing the proposal and/or to terminate the project should the results fail to meet expected targets."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "For enquiries, please contact PREPARE Grant Secretariat at <a href='mailto:PREPARE_Grants@ncid.sg'>PREPARE_Grants@ncid.sg</a>."
+        }
+      ]
+    }
+ ],
+  "page": {
+    "title": "Diagnostics",
+    "contentPageHeader": {
+      "summary": "2024 Diagnostics Co-operative Strategic Open Grant Call"
+    }
+  },
+  "version": "0.1.0"
+}
