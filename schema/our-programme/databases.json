@@ -1,0 +1,95 @@
+{
+  "layout": "content",
+  "content": [
+    {
+      "type": "heading",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Lead"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "infopic",
+      "title": "Associate Professor Barnaby Edward Young",
+      "description": "Associate Professor Young leads the PREPARE Databases Core and is also Head of the Singapore Infectious Diseases Clinical Research Network (SCRN) and the National Centre for Infectious Diseases (NCID) Research Clinic. During the COVID-19 pandemic he led several large clinical studies. These includes observational studies of infection and vaccination (PROTECT and SCOPE respectively), ACTIV-3/TICO which is an adaptive platform trial focusing on therapeutic monoclonal antibodies for COVID-19, and PRIBIVAC a heterologous COVID-19 booster vaccination trial.",
+      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-1_253x253b043a737c8154dba9f3bfca9970a165b.jpg?sfvrsn=8456ead6_0",
+      "imageAlt": "Image of Associate Professor Barnaby Edward Young",
+      "isTextOnRight": true,
+      "variant": "side-by-side"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our  Goals"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Databases Core is a long-term capability programme to develop a “file-drawer” electronic data capture (EDC) system that is ready for immediate entry of de-identified clinical data in the event of a disease outbreak. It also aims to develop a functioning and accessible national level infectious disease research database that is well curated, with highly characterised datasets that will differentiate our research and data analysis."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "It will establish a team of trained research personnel that can be rapidly activated for data collection, sample gathering and patient enrolment across different healthcare institutions. Lastly, the programme will enhance PREPARE’s research governance framework so as to facilitate access and use of these research data for public health big data analytics and research in compliance to applicable laws."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Strategy"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Databases Core will establish research collaborations to enable data collection and management to be carried out in a more robust manner, by extending the manpower support to all acute hospitals who will coordinate the data management effort and ensure data harmonisation. PREPARE would also work together with MOH to establish the database using the MOH Consolidated Data Repository platform. "
+        }
+      ]
+    }
+ ],
+  "page": {
+    "title": "Databases",
+    "contentPageHeader": {
+      "summary": "The Databases Core led by Associate Professor Barnaby Edward Young functions to support PREPARE’s five research Co-operatives by establishing infectious disease clinical and research databases that can be linked to health databases, as well as epidemic datasets to allow big data analytics."
+    }
+  },
+  "version": "0.1.0"
+}
