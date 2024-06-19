@@ -1,0 +1,291 @@
+{
+  "layout": "content",
+  "content": [
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Lead"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "infopic",
+      "title": "Dr Kang Chang Wei (Lead)",
+      "description": "Dr Kang Chang Wei leads the PREPARE Environmental Transmission & Mitigation Co-operative. He is also concurrently Senior Scientist and Department Director (Fluid Dynamics Department) at the Agency for Science, Technology and Research (A*STAR) Institute of High Performance Computing (IHPC).",
+      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-1_253x253c791b209f82e422ca36310696fa7af2a.jpg?sfvrsn=2fbff00f_0",
+      "imageAlt": "Image of Dr Kang Chang Wei ",
+      "isTextOnRight": true,
+      "variant": "side-by-side"
+    },
+    {
+      "type": "infopic",
+      "title": "Dr Judith Wong (Deputy Lead)",
+      "description": "Dr Judith Wong is a Director at the Environmental Health Institute, National Environment Agency, Singapore, where she oversees the Microbiology and Molecular Epidemiology Division. She leads a multidisciplinary scientific team working on various One Health initiatives including risk assessment and surveillance of vector-borne diseases, bio-surveillance, and environmental monitoring of antimicrobial resistance.",
+      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider11/default-album/judith-wong-253x253.jpg?sfvrsn=3d606245_2",
+      "imageAlt": "Image of Dr Judith Wong",
+      "isTextOnRight": true,
+      "variant": "side-by-side"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Key Personnel"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "infopic",
+      "title": "Dr Cary Kenny Turangan",
+      "description": "Senior Scientist",
+      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-2_253x253.jpg?sfvrsn=9802e39e_0",
+      "isTextOnRight": true,
+      "variant": "side-by-side"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Strategy"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Environmental Transmission and Mitigation Co-Operative is steering towards commissioned projects and two grant calls focused on developing evidence-based scientific methodologies to help inform policy formulation e.g. to develop timely transmission risk assessment framework, accurate environmental sensing technologies that may flag up locations or situations where the risk of infectious disease spread is heightened, and to develop effective and sustainable disinfection strategies."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Collaborations"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "A*CRUSE Airflow and Droplet Studies"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<u>Institute of High Performance Computing (IHPC), A*STAR</u><br> Chang Wei Kang, Keng Hui Lim, George Xu, Hongying Li, Zhengwei Ge, Chin Chun Ooi, Zhong Liang Ou Yang and Fong Yew Leong."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<u>Institute of Materials Research and Engineering (IMRE), A*STAR</u><br> Ady Suwardi, Ivan Tan, Dan Daniel, Davy Cheong, Xian Jun Loh, Anton Sadovoy and Jingyee Chee"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "To prevent the spread of COVID-19, it is important to understand the flight trajectories of airborne droplets from emission to deposition on a human subject at a distance when coughing, singing or talking, as well as aerodynamics, droplets physics and their interactions. A*STAR’s ongoing research studies the spread and movement of airborne droplets in different conditions and environments. The combination of IHPC’s computational modelling expertise and IMRE’s experimental design and particle sensing capabilities allowed the teams to cross validate the findings and quantify potential aerosol exposure levels in different settings and social distancing, such as in public spaces.  A*STAR has been working with public sector agencies, event providers and organisers, and other organisations, to look into and implement measures that will allow events to take place safely, by helping them to address factors that contribute to virus spread such as crowd sizes, distancing between people and confined spaces with poor ventilation. The research team worked with colleagues from A*STAR’s biomedical research institutes, as well as the National Centre of Infectious Diseases (NCID), to better understand the infectivity of COVID-19 cough droplet transmission. The National Supercomputing Centre (NSCC) also supported this research. "
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Risk Assessment of Airborne COVID-19 Exposure in Social Settings (Reference)"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<u>Institute of High Performance Computing (IHPC), A*STAR</u><br> Chin Chun Ooi, Zhong Liang Ou Yang, George Xu, Hongying Li, Zhengwei Ge, Fong Yew Leong, Chang Wei Kang and Keng Hui Lim."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<u>Institute of Materials Research and Engineering (IMRE), A*STAR</u><br> Ady Suwardi, Ivan Tan, Dan Daniel, Davy Cheong and Xian Jun Loh"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<u>National Centre for Infectious Diseases (NCID), Tan Tock Seng Hospital, Singapore</u><br> Kalisvar Marimuthu and Oon Tek Ng"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<u>Ministry of Health (MOH), Singapore</u><br> Shin Bin Lim"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<u>Land Transport Authority (LTA), Singapore</u><br> Peter Lim and Wai Siong Mak"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "We conducted risk assessment of airborne COVID-19 exposure in social settings that led to decisions about which activities were to keep open across a range of social settings and venues guided only by ad hoc heuristics regarding social distancing and personal hygiene. In this collaboration, we performed computational fluid dynamic (CFD) simulations and surrogate aerosol measurements for location-specific assessment of risk of infection across different real-world settings. We proposed a 3-tiered risk assessment scheme to facilitate classification of scenarios into risk levels based on simulations and experiments, which helped to prioritize allowable activities and guided implementation of phased lockdowns or re-opening. Using a public bus in Singapore as a case study, we evaluated the relative risk of infection across scenarios such as different activities and passenger positions and demonstrate the effectiveness of our risk assessment methodology as a simple and easily interpretable framework.   "
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Efficacy of Plant-Based Ionizers in Removing Aerosol for COVID-19 Mitigation (Reference)"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<u>Institute of Materials Research and Engineering (IMRE), A*STAR</u><br> Ady Suwardi, Dan Daniel, Ivan Tan, Yuanting Karen Tang, Jing Yee Chee, Anton Sadovoy, Davy Cheong, Xian Jun Loh and Enyi Ye"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<u>Temasek Life Science Laboratory (TLL), Singapore</u><br> Shu-Ye Jiang and Srinivasan Ramachandran"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<u>Institute of High Performance Computing (IHPC), A*STAR</u><br> Chin Chun Ooi, Hongying Li, Ou Yang Zhong Liang, Chang Wei Kang and Keng Hui Lim"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The collaboration among IHPC, IMRE and TLL sought to evaluate the efficacy of a novel plant-based ionizer in eliminating aerosol. It was found that factors such as the ion concentration, humidity, and ventilation can drastically affect the efficacy of aerosol removal. The aerosol removal rate was quantified in terms of ACH (air changes per hour) and CADR (clean air delivery rate) equivalent unit, with ACH as high as 12 and CADR as high as 141 ft3/minute being achieved by a plant-based ionizer in a small isolated room. This work provides an important and timely guidance on the effective deployment of ionizers in minimizing the risk of COVID-19 spread via airborne aerosol, especially in a poorly-ventilated environment."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Dispersion of Evaporating Cough Droplets in Tropical Outdoor Environment (Reference)"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": []
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<u>Institute of High Performance Computing (IHPC), A*STAR</u><br> Hongying Li, Fong Yew Leong, George Xu, Zhengwei Ge, Chang Wei Kang and Keng Hui Lim"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The ongoing Covid-19 pandemic has focused our attention on airborne droplet transmission. In this study, we simulate the dispersion of cough droplets in a tropical outdoor environment, accounting for the effects of non-volatile components on droplet evaporation. The effects of relative humidity, wind speed and social distancing on evaporative droplet transport are investigated. Transmission risks are evaluated based on SARS-CoV-2 viral deposition on a person standing 1m or 2m away from the cougher. Our results show that the travel distance for a 100µm droplet can be up to 6.6m under a wind speed of 2m/s. This can be further increased under dry conditions. We found that the travel distance of a small droplet is relatively insensitive to relative humidity. For a millimetric droplet, the projected distance can be more than 1m, even in still air. Significantly greater droplets and viral deposition are found on a body 1m away from a cougher, compared to 2m. Despite low inhalation exposure based on a single cough, infection risks may still manifest through successive coughs or higher viral loadings."
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "Environmental Transmission & Mitigation",
+    "description": "The Environmental Transmission and Mitigation Co-operative led by Dr Kang Chang Wei aims to develop expertise to rapidly conduct epidemiological studies on environmental transmission and assess public health mitigating measures.",
+    "contentPageHeader": {
+      "summary": "The Environmental Transmission and Mitigation Co-operative led by Dr Kang Chang Wei aims to develop expertise to rapidly conduct epidemiological studies on environmental transmission and assess public health mitigating measures."
+    }
+  },
+  "version": "0.1.0"
+}
