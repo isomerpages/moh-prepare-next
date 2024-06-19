@@ -1,0 +1,388 @@
+{
+  "layout": "content",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "PREPARE is a national programme set up by the Ministry of Health (MOH) to support and strengthen Singapore’s key research capabilities, translational platforms and expertise to develop tools, methods and products that can be tapped on to detect, respond to and contain future infectious disease threats. The National Centre for Infectious Diseases (NCID) serves as the administrative host of PREPARE."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "PREPARE is funded by RIE2020 White Space under the Human Health and Potential domain, and supports five co-operatives designed to focus on bringing scientists, government agencies and policy makers together to enhance early detection and sense-making capabilities, develop key enablers in data infrastructure, analytics and behavioural science research, strengthen capabilities for accelerated development of diagnostics, therapeutics and vaccines as well as develop a strong regional infectious diseases research network."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "PREPARE’s Environmental Transmission & Mitigation Co-operative aims to grow expertise to rapidly conduct epidemiology studies on environmental transmission, surveillance and mitigation, and assessment of public health measures. PREPARE’s Diagnostics Co-operative aims to integrate complementary, multi-disciplinary R&D capabilities and strengthen linkages along the entire diagnostic development pathway with the goal to curate and assemble cutting-edge diagnostic prototypes to support different priority use cases and prepare for future outbreaks."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The key focus of the <b>2023 Joint Environmental Transmission & Mitigation and Diagnostics Co-operatives Strategic Open Grant Call</b> is Surveillance and includes Environmental, Serology and Genomic Surveillance."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The 2023 Joint Strategic Open Grant Call will support grant proposals in the following areas:"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "1. End-to-end solution"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Proposals should address development of end-to-end, novel, rapid and accurate <b>technologies for on-site sensing</b> and <b>analysis</b> of pathogens of epidemic potential such as human influenza virus, coronavirus and other respiratory viruses from environmental samples including but not limited to air, fomites, water and wastewater, which may flag up locations or situations where the risk of infectious disease spread is heightened. The solution developed from this proposal should be a fully functional prototype for a new platform or device."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "2. Targeted solution"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Proposals should address the following specific issues:"
+        }
+      ]
+    },
+        {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Development of innovative and cost-effective <b>methodologies for detection of pathogens of epidemic potential</b>, such as human influenza virus, coronavirus and other respiratory viruses from environmental samples, including but not limited to air, fomites, water and wastewater. The proposal should address specific issues related to sampling, concentrating, detection, testing, data analytics, modelling, and/or interpretation methods."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Development of innovative and cost-effective <b>methodologies for serological/genomic surveillance of large populations</b>. The proposal should address specific issues related to sample pooling, testing, data analysis, modelling, and/or interpretation methods. Relevant populations may include but not limited to high-risk groups, populations in low-resource settings."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The work may cover experimental testing, modelling and simulations and device prototyping."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Grant proposals in these areas should demonstrate a strong alignment with the <b>Environmental Transmission & Mitigation</b> and <b>Diagnostics Co-operatives'</b> goals and show a clear potential for impact on the field of environmental transmission and mitigation and the field of diagnostics. We welcome proposals from multi-disciplinary teams with diverse perspectives and expertise."
+        }
+      ]
+    },
+        {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Grant Information"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "unorderedlist",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Funding Quantum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "orderedlist",
+          "start": 1,
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "End-to-End Solution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "unorderedlist",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Quantum: Up to S$1.3M (including 30% indirect costs)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Duration: Up to two (2) years"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Targeted Solution"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "unorderedlist",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Quantum: Up to S$400K (including 30% indirect costs)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [],
+                          "text": "Duration: Up to one (1) year"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Only one Principal Investigator (PI) is allowed per application."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Research team must comprise researchers from at least two local institutions with at least one co-investigator from a different institute as the PI. Researchers from overseas institutions or private companies can only participate as collaborators. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Grant proposals must indicate clear milestones and checkpoints for Go/NoGo decisions, allowing resources to be redirected towards relevant goals and objectives."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "PREPARE will conduct continuous review of the awarded project with regular progress reports, mid-term review and PREPARE’s Grant Review Committee will have the discretion to suggest re-directing the proposal and/or to terminate the project should the results fail to meet expected targets."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<b>The 2023 Joint Environmental Transmission & Mitigation and Diagnostics Co-operatives Strategic Grant is currently closed for applications.</b>"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "For enquiries, please contact PREPARE Grant Secretariat at <a href='mailto:PREPARE_Grants@ncid.sg'>PREPARE_Grants@ncid.sg</a>."
+        }
+      ]
+    }
+ ],
+  "page": {
+    "title": "Environmental Transmission & Mitigation",
+    "contentPageHeader": {
+      "summary": "PREPARE is launching the 2023 Joint Environmental Transmission & Mitigation and Diagnostics Co-operatives Strategic Open Grant Call."
+    }
+  },
+  "version": "0.1.0"
+}
