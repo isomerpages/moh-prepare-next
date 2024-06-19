@@ -1,0 +1,85 @@
+{
+  "layout": "content",
+  "content": [
+    {
+      "type": "heading",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Lead"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "infopic",
+      "title": "Associate Professor Yeo Tsin Wen",
+      "description": "Associate Professor Yeo Tsin Wen leads the PREPARE Regional Networks Co-operative. The Yeo research group at the Nanyang Technological University (NTU)’s Lee Kong Chian School of Medicine focuses on epidemiological and translational research in malaria, tuberculosis, dengue, and emerging infectious diseases. In 2016, A/Prof Yeo Tsin Wen was awarded the Clinician- Scientist Award from Singapore’s National Medical Research Council (NMRC).",
+      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-1_253x253a2c9b1d132de4dde83c0bdc40981b64d.jpg?sfvrsn=2d17fc42_0",
+      "imageAlt": "Image of Associate Professor Yeo Tsin Wen",
+      "isTextOnRight": true,
+      "variant": "side-by-side"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our  Goals"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "PREPARE’s Regional Networks Co-operative strives to create a strong regional infectious diseases research network to enable timely insights sharing and information exchange. It will also establish and strengthen a regional clinical research network that can rapidly conduct multicentre studies, generate high quality insights and inform clinical management in an epidemic and lastly to develop a talent programme that supports the training and exchange of researches and students between Singapore and the region."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Strategy"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Regional Networks Co-operative seeks to co-support existing regional clinical research networks to facilitate active participation in regional infectious diseases projects, link up local laboratories and clinical sites for joint projects and clinical trials, as well as build capability for international infectious disease research."
+        }
+      ]
+    }
+ ],
+  "page": {
+    "title": "Regional Networks",
+    "contentPageHeader": {
+      "summary": "The Regional Networks Co-operative led by Associate Professor Yeo Tsin Wen seeks to create a strong regional infectious diseases research network that enables timely information exchange, technology transfer, and insights sharing. It also aims to develop a talent programme that supports the training and exchange of researchers and students between Singapore and the region.</br></br> Additionally, it plans to strengthen a regional clinical research network that can rapidly conduct multicentre studies, generate high quality clinical insights and inform clinical management in an epidemic."
+    }
+  },
+  "version": "0.1.0"
+}
