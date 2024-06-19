@@ -1,0 +1,536 @@
+{
+  "layout": "content",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Programme for Research in Epidemic Preparedness and REsponse (PREPARE) is a national programme set up by the Ministry of Health (MOH) to support and strengthen Singapore’s key research capabilities, translational platforms, and expertise to develop tools, methods and products that can be tapped on to detect, respond to, and contain future infectious disease threats. The National Centre for Infectious Diseases (NCID) serves as the administrative host of PREPARE."
+        }
+      ]
+    },
+        {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "PREPARE is funded by RIE2020 White Space under the Human Health and Potential (HHP) domain  and supports five Co-operative programmes that focus on bringing researchers and clinicians together across institutions to enable expedited and more efficient translation and productisation. The strategic grant calls administered by PREPARE are designed to align Singapore’s strategic plans to support epidemic preparedness and response."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The key objectives of the Vaccines & Therapeutics (V&T) Co-operative are to build local expertise and capabilities to enhance resilience in vaccines and therapeutics against infectious threats, and to establish a pipeline from discovery to clinical development for seamless and fast-tracked development of vaccine and therapeutic clinical candidates."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The 2024 V&T Co-Operative Programme strategic open grant call will support grant proposals in the following areas:"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "1. Identification of broadly protective vaccine candidates against paramyxoviruses, coronaviruses and influenza viruses"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "2. Development of broadly protective monoclonal antibodies targeting pathogens with zoonotic/outbreak potential from the paramyxovirus, coronavirus and influenza families"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "3. Development of broadly protective drugs or drug combinations against paramyxoviruses, coronaviruses and influenza viruses"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Note: Grant proposals must indicate clear milestones and checkpoints for Go/No-go decisions, allowing resources to be redirected towards relevant goals and objectives. </br></br>PREPARE will conduct continuous review of the awarded project with 6-monthly regular progress updates or at the first go/no-go checkpoint whichever is earlier, mid-term review and PREPARE’s Grant Review Committee will have the discretion to suggest re-directing the proposal and/or to terminate the project should the results fail to meet expected targets."
+            }
+          ]
+        }
+      ]
+    },
+        {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Grant Information"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Funding Quantum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Two grant tracks are available, namely <b>individual track</b> with maximum funding of SGD $1.5M, and <b>programmatic track</b> with SGD $3M (including 30% indirect costs), depending on the scope of the research project."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Funding Duration"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Up to 2 years"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Eligibility Criteria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "orderedlist",
+          "start": 1,
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Research team (Lead PI and at least one Co-I) must comprise researchers from <b>at least two local institutions</b>. Researchers from overseas institutions or private companies can only participate as collaborators."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Only one Principal Investigator (PI) is allowed per application."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<u>Principal Investigator</u>"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Applicant applying as Principal Investigator is required to fulfil the following criteria at the point of application:"
+        }
+      ]
+    },
+        {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Holds a primary appointment in a local publicly funded institution and salaried by the institution."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "PI should have PhD or MD/MBBS/BDS qualifications. (Exceptions would be made on a case-by-case basis)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": " Is an independent investigator (with PI status in institution) with a demonstrated track record of research, as evidenced by the award of nationally competitive funding (international funding to be considered on a case by case basis), substantial publication record in the past 3 years."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Has a laboratory or clinical research program that carries out research in Singapore."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Holds a minimum of 9 months employment (per calendar year) with local Singapore institution(s). Upon award, the PI must agree to fulfil at least 6 months of residency in Singapore for each calendar year over the duration of the grant award."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Has no outstanding report from previous BMRC, NMRC grants, and other national grants."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "For proposal involving patients, the PI should be SMC registered; or should be able to demonstrate ability to access patients through SMC registered Co-Is or collaborators."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<u>Co-Investigators and Collaborators</u>"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "There is no limit to the number of Co-Investigators or collaborators. Please specify and describe clearly the roles of Co-Investigators and collaborators in the relevant section. Researchers from overseas institutions or private companies can only participate as collaborators."
+        }
+      ]
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Review Process"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "unorderedlist",
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "All applications will be evaluated by independent local/international experts in relevant domains and reviewed by PREPARE Executive Committee (EXCO) members. The review process will take about 8-10 weeks after application closes."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Evaluation Criteria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "orderedlist",
+          "start": 1,
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Objectives of the research programme in context of PREPARE Vaccines & Therapeutics Co-Operative Programme’s goals"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Capability of the research team(s) to conduct the research"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Quality of science, value for money and overall feasibility of project"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Translatability of project (eg, scalability, IP attractiveness, manufacturing risk, able to deploy quickly during pandemic)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<b>The 2024 V & T Co-Operative Programme Strategic Open Grant Call is currently closed for applications.</b>"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "For other enquiries, please contact the PREPARE Grant secretariat at <a href='mailto:PREPARE_Grants@ncid.sg'>PREPARE_Grants@ncid.sg</a>"
+        }
+      ]
+    }
+ ],
+  "page": {
+    "title": "Vaccines & Therapeutics",
+    "contentPageHeader": {
+      "summary": "2024 V&T Co-Operative Programme strategic open grant call"
+    }
+  },
+  "version": "0.1.0"
+}
