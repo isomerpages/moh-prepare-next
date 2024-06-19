@@ -1,0 +1,238 @@
+{
+  "layout": "content",
+  "content": [
+    {
+      "type": "heading",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Lead"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "infopic",
+      "title": "Assistant Professor Shawn Vasoo",
+      "description": "Assistant Professor Shawn Vasoo leads the PREPARE Biorepository Core. He is also currently Clinical Director at NCID. At NCID, he also leads the Infectious Diseases Research Laboratory. He is a clinical educator with the Lee Kong Chian School of Medicine, Nanyang Technological University, and the Yong Loo Lin School of Medicine at the National University of Singapore.",
+      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-1_253x2531759782460ac4dafbff1e7cd3d20ff9b.jpg?sfvrsn=90f53510_0",
+      "imageAlt": "Image of Assistant Professor Shawn Vasoo",
+      "isTextOnRight": true,
+      "variant": "side-by-side"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Key Personnel"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "infocards",
+      "variant": "top",
+      "cards": [
+        {
+          "title": "Dr. Conrad Chan En Zuo",
+          "url": "/",
+          "imageUrl": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-2_253x2532a8e885f53534d549ea39119058f785d.jpg?sfvrsn=e8ddc556_0",
+          "imageAlt": "Image of Dr. Conrad Chan En Zuo",
+          "text": "Principal Scientific Officer "
+        },
+        {
+          "title": "Dr Yogeswari D/O Chandran",
+          "url": "/",
+          "imageAlt": "Image of Dr Yogeswari D/O Chandran",
+          "imageUrl": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-3_253x253.jpg?sfvrsn=961b6100_0",
+          "text": "Scientific Officer "
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our  Goals"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "To develop, maintain and serve as a custodian of a national repository and reference collection of microbes of public health importance and associated biological/clinical specimens in Singapore."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "To facilitate the research studies of microbes (genotypic and phenotypic characterization including resistance and virulence) to help inform public health and infection control efforts."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "To support and encourage research in the development and verification of new diagnostic tests, therapeutics and technologies"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Strategy"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "unorderedlist",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Provide secure and reliable long-term storage for pathogen and patient samples and their associated data."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Develop deep expertise in research methodologies such as pathogen isolation, culture, inactivation and characterization supported by on-site research laboratory and infrastructure."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Develop a network of local stakeholders to enable effective collection and utilization of samples."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Facilitate infectious disease and public health research for better health policies, disease knowledge and clinical care."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Collaborations"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "We work with DxD Hub, A*STAR in the development of reference panels for diagnostic development and validation."
+        }
+      ]
+    }
+ ],
+  "page": {
+    "title": "Biorepository",
+    "contentPageHeader": {
+      "summary": "The Biorepository Core led by Assistant Professor Shawn Vasoo functions to support PREPARE's five research co-operatives and aims to establish a biorepository for clinical samples and pathogen isolates along with their associated data that can be utilised for research."
+    }
+  },
+  "version": "0.1.0"
+}
