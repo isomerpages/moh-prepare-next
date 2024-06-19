@@ -1,0 +1,285 @@
+{
+  "layout": "content",
+  "content": [
+    {
+      "type": "heading",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Lead"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "infopic",
+      "title": "Dr Weng Ruifen",
+      "description": "Dr Weng Ruifen leads the PREPARE Diagnostics Co-operative. She is also the Deputy Chief Executive Officer (DyCEO) and Chief Technology Officer (CTO) of Diagnostics Development (DxD) Hub, a national platform hosted by Singapore’s Agency for Science, Technology and Research (A*STAR). During COVID-19 pandemic, DxD Hub helped to develop and deploy a number of COVID-19 diagnostics products within months. <b>Inaugural Co-operative Lead: Dr Sidney Yee</b>",
+      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider11/default-album/dr-weng-ruifen_253x253.jpg?sfvrsn=7d9276c9_0",
+      "imageAlt": "Image of Dr Weng Ruifen",
+      "isTextOnRight": true,
+      "variant": "side-by-side"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Key Personnel"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "infocards",
+      "variant": "top",
+      "cards": [
+        {
+          "title": "Dr James Qu",
+          "url": "/",
+          "imageUrl": "https://www.moh.gov.sg/images/librariesprovider11/default-album/dr-james-qu_253x253.jpg?sfvrsn=5a67fbae_0",
+          "imageAlt": "Image of Dr James Qu",
+          "text": "Programme Head"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Goals"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "orderedlist",
+      "start": 1,
+      "content": [
+        {
+          "type": "orderedlist",
+          "start": 1,
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "To establish an integrated and functional infectious disease diagnostic development co-operative with multidisciplinary R&D capabilities"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "To strengthen linkages across the diagnostics development pathway, from research prototypes to product, towards expeditious response to an expanded range of pathogens of interest"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "To accelerate the delivery of regulatory-approved diagnostics with production capacity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "To enhance supply chain readiness and support expedited deployment for national testing"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Strategy"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "In moving towards achieving its goals, the Diagnostics Co-operative deploys a defined strategy by:"
+        }
+      ]
+    },
+    {
+      "type": "orderedlist",
+      "start": 1,
+      "content": [
+        {
+          "type": "orderedlist",
+          "start": 1,
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Glue funding bringing together integrated and multidisciplinary teams (biology bioengineering, chemistry, robotics, clinical infectious disease) to develop novel diagnostic technologies/ platforms"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Top down directed R&D project funding to plug specific diagnostic gaps, up to effective working prototype"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Productisation through to manufacturing of infectious disease diagnostic platforms by leveraging the productization engine at DxD Hub"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Development of microbiology platform to accelerate product development by standardising the preparation, storage, access and distribution of BSL2 ready reference materials."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Development of deployment workflow platform to identify critical gaps in diagnostics deployment, to enable rapid scale-up of reliable national testing."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Collaborations"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Synergising with the efforts of PREPARE’s Biorepository Core, we are working with Dr Conrad Chan from the Infectious Disease Research Laboratory (IDRL) at the National Centre for Infectious Diseases (NCID) to establish a Microbiology Platform. This platform aims to accelerate product development by standardising the preparation, storage, access, and distribution of BSL2-ready reference materials."
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "Diagnostics",
+    "contentPageHeader": {
+      "summary": "The Diagnostics Co-operative led by Dr Weng Ruifen functions to integrate complementary, multidisciplinary research and development (R&D) capabilities and strengthen the linkages along the whole diagnostic development pathway.  Furthermore, it seeks to curate and assemble cutting-edge diagnostic prototypes which support different priority use cases to prepare for future outbreaks."
+    }
+  },
+  "version": "0.1.0"
+}
