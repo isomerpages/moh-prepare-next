@@ -27,6 +27,9 @@
       "variant": "side-by-side"
     },
     {
+      "type": "divider"
+    },
+    {
       "type": "heading",
       "content": [
         {
@@ -38,12 +41,19 @@
       "level": 2
     },
     {
-      "type": "infopic",
-      "title": "Dr. Conrad Chan En Zuo",
-      "description": "Principal Scientific Officer ",
-      "isTextOnRight": true,
-      "variant": "side-by-side",
-      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-2_253x2532a8e885f53534d549ea39119058f785d.jpg?sfvrsn=e8ddc556_0"
+      "type": "infocards",
+      "variant": "top",
+      "cards": [
+        {
+          "title": "Dr. Conrad Chan En Zuo",
+          "url": "/",
+          "imageUrl": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-2_253x2532a8e885f53534d549ea39119058f785d.jpg?sfvrsn=e8ddc556_0",
+          "imageAlt": "Image of Dr. Conrad Chan En Zuo"
+        }
+      ]
+    },
+    {
+      "type": "divider"
     },
     {
       "type": "heading",
@@ -122,6 +132,9 @@
           ]
         }
       ]
+    },
+    {
+      "type": "divider"
     },
     {
       "type": "heading",
