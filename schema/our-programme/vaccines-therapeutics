@@ -1,0 +1,156 @@
+{
+  "layout": "content",
+  "content": [
+    {
+      "type": "heading",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Lead"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "infopic",
+      "title": "Associate Professor Sylvie Alonso",
+      "description": "Associate Professor Sylvie Alonso leads the PREPARE Vaccines & Therapeutics Co-operative. She is also Associate Professor at the National University of Singapore (NUS) Department of Microbiology and Immunology, Co-Director of Infectious Diseases Translational Research Programme at NUS Yong Loo Lin School of Medicine, and Deputy Director of Life Sciences Institute at NUS. ",
+      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-1_253x253cc0987487da3489eb1251dc890543d7c.jpg?sfvrsn=acaacfaa_0",
+      "imageAlt": "Image of Associate Professor Sylvie Alonso",
+      "isTextOnRight": true,
+      "variant": "side-by-side"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Key Personnel"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "infopic",
+      "title": "Dr. Conrad Chan En Zuo",
+      "description": "Principal Scientific Officer ",
+      "isTextOnRight": true,
+      "variant": "side-by-side",
+      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-2_253x2532a8e885f53534d549ea39119058f785d.jpg?sfvrsn=e8ddc556_0"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Goals"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Vaccines and Therapeutics Co-operative programme aims to:"
+        }
+      ]
+    },
+    {
+      "type": "orderedlist",
+      "start": 1,
+      "content": [
+        {
+          "type": "orderedlist",
+          "start": 1,
+          "content": [
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Help develop research expertise and capabilities in virology and vaccinology;"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Establish a pre-clinical ecosystem for easy access and rapid deployment of relevant technologies and expertise; and"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listItem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Deliver pre-clinically validated therapeutics/ vaccine technologies/platforms that are ready to enter clinical development."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Our Strategy"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Vaccines and Therapeutics Co-operative will support use-inspired research on priority pathogen families, as well as pathogen agnostic vaccine and therapeutic platforms through its strategic open grant calls, commissioned studies and partnerships with local biotech sector and multinational pharma companies."
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "Vaccines & Therapeutics",
+    "description": "The Vaccines and Therapeutics Co-operative led by Associate Professor Sylvie Alonso aims to develop pathogen-agnostic technologies and platforms to enable rapid therapeutic or vaccine development to enhance Singapore’s capabilities and access to vaccines during future epidemics. ",
+    "contentPageHeader": {
+      "summary": "The Vaccines and Therapeutics Co-operative led by Associate Professor Sylvie Alonso aims to develop pathogen-agnostic technologies and platforms to enable rapid therapeutic or vaccine development to enhance Singapore’s capabilities and access to vaccines during future epidemics. "
+    }
+  },
+  "version": "0.1.0"
+}
