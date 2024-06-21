@@ -1,0 +1,121 @@
+{
+  "layout": "article",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Institute of High Performance Computing (A*STAR-IHPC) and the Programme for Research in Epidemic Preparedness and Response (PREPARE) jointly organised a discussion workshop on 13 Apr 2022 via Zoom. It was aimed to promote visibility of PREPARE Co-operative programmes, in particular the Environmental Transmission and Mitigation Co-operative, to grow talent in environmental transmission, surveillance and mitigation, to promote interaction and networking amongst research performers in these fields, and to identify challenge statements (gaps and capabilities from the breakout sessions) for the upcoming grant calls."
+        }
+      ]
+    },
+        {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The main impetus of the workshop was that COVID-19 as an infectious disease with several variants proven to be extremely contagious has caused an on-going global pandemic with unprecedented impact in health and economics including to Singapore. Airborne transmission of this respiratory virus is very dominant as it can spread through droplets expelled during coughing, sneezing, talking, singing and even breathing. As similar infectious disease outbreaks may occur in the future, strategic capabilities development is urgently needed to support scientific evidence-based approach to inform policy formulation related to environmental transmission, surveillance and mitigation by means of modelling, standby experimental setup and approved protocols."
+        }
+      ]
+    },
+        {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The workshop was attended by 54 participants from various A*STAR Institutes, government agencies, Singapore ministries, Singapore hospitals and Institutes of higher learning. The workshop had two parts: (1) Technical presentations (by Assoc Prof Teoh Yee Leong from the Ministry of Health (MOH) Singapore, Dr Ooi Chin Chun from A*STAR-IHPC and Dr Judith Wong from the National Environment Agency (NEA) Singapore), and (2) Breakout sessions and discussion."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-2-1_original.jpg?sfvrsn=9a34a40b_0",
+      "alt": "Image of discussion workshop on environmental transmission, surveillance and mitigation. Welcome address by Prof Lim Keng Hui (A*STAR-IHPC), Opening remarks by Prof David Lye (PREPARE), Environmental Transmission & Mitigation Co-op by Dr Kang Chang Wei (PREPARE, A*STAR-IHPC), and Technical talks by A/Prof Teoh Yee Leong (MOH), Dr Ooi Chin Chun (A*STAR-IHPC) and Dr Judith Wong (NEA).",
+      "width": 100
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<i>Discussion workshop on environmental transmission, surveillance and mitigation. Welcome address by Prof Lim Keng Hui (A*STAR-IHPC), Opening remarks by Prof David Lye (PREPARE), Environmental Transmission & Mitigation Co-op by Dr Kang Chang Wei (PREPARE, A*STAR-IHPC), and Technical talks by A/Prof Teoh Yee Leong (MOH), Dr Ooi Chin Chun (A*STAR-IHPC) and Dr Judith Wong (NEA)</i>"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Prof Teoh presented the COVID-19 epidemiological investigation and risk assessment, in which he elaborated on the extremely challenging work done by MOH to conduct early detection and contact tracing that helped to map the COVID-19 transmission in Singapore, the reported clusters and the battle to contain the outbreak. Dr Ooi gave a talk on the assessment of transmission risk of COVID-19 in various environment or settings by means of computational fluid dynamics (CFD) simulations and experimental measurements, which would help to inform policy formulation about the need to wear masks and improve ventilation. Dr Wong shared the work by NEA on environmental surveillance for risk assessment and mitigation of public health threats with the examples of wastewater tests for COVID-19, fomite sampling and aerosol studies."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "In the breakout sessions, the participants had the opportunities to discuss the challenging topics: (a) the possible gaps we foresee in future infectious disease transmission, (b) the capabilities we look for to fill up those gaps, and (3) the current expertise and technologies we have and their aspects that need further development."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "For more information, head over to our <a href='/about-us'>About Us</a> and <a href='/funding-opportunities'>Grants</a> page. For other enquiries, you may contact us at <a href='mailto:PREPARE@ncid.sg'>PREPARE@ncid.sg</a>."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-2-2_original.jpg?sfvrsn=306dbef4_0",
+      "alt": "Event poster",
+      "width": 100
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<i>Event poster of the online discussion workshop on Promoting Visibility, Interaction and Collaboration in Scientific Research of Environmental Transmission, Surveillance and Mitigation on 13 Apr 2022 was jointly organized by A*STAR-IHPC and PREPARE Programme Office.</i>"
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "Discussion Workshop on: Promoting Visibility, Interaction and Collaboration in Scientific Research of Environmental Transmission, Surveillance and Mitigation",
+    "contentPageHeader": {
+      "summary": "The Institute of High Performance Computing (A*STAR-IHPC) and the Programme for Research in Epidemic Preparedness and Response (PREPARE) jointly organised a discussion workshop on 13 Apr 2022 via Zoom. It was aimed to promote visibility of PREPARE Co-operative programmes, in particular the Environmental Transmission and Mitigation Co-operative, to grow talent in environmental transmission, surveillance and mitigation, to promote interaction and networking amongst research performers in these fields, and to identify challenge statements (gaps and capabilities from the breakout sessions) for the upcoming grant calls."
+    },
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Read more about our events and highlights here.",
+    "category": "Events & Highlights",
+    "date": "13 Apr 2022",
+    "image": {
+      "src": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-2-2_original.jpg?sfvrsn=306dbef4_0",
+      "alt": "Image of the online discussion workshop on Promoting Visibility, Interaction and Collaboration in Scientific Research of Environmental Transmission, Surveillance and Mitigation on 13 Apr 2022 was jointly organized by A*STAR-IHPC and PREPARE Programme Office"
+    },
+    "articlePageHeader": {
+      "summary": [
+        "The Institute of High Performance Computing (A*STAR-IHPC) and the Programme for Research in Epidemic Preparedness and Response (PREPARE) jointly organised a discussion workshop on 13 Apr 2022 via Zoom. It was aimed to promote visibility of PREPARE Co-operative programmes, in particular the Environmental Transmission and Mitigation Co-operative, to grow talent in environmental transmission, surveillance and mitigation, to promote interaction and networking amongst research performers in these fields, and to identify challenge statements (gaps and capabilities from the breakout sessions) for the upcoming grant calls."
+      ]
+    }
+  },
+  "version": "0.1.0"
+}
