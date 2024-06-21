@@ -1,0 +1,42 @@
+{
+  "layout": "article",
+  "content": [
+    {
+      "type": "image",
+      "src": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-5-1_original.jpg?sfvrsn=318dfd86_0",
+      "alt": "Image of delegation visit",
+      "width": 100
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<i>Post by Honorary Jaala Pulford, Minister for Innovation, Medical Research and the Digital Economy on 8 July 2022 along with Senior Leaders from NCID"
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "Delegation visit from Victoria State Government, Melbourne, Australia",
+    "contentPageHeader": {
+      "summary": "PREPARE was delighted to be featured during a recent delegation visit by representatives of the Victoria State Government in Australia to the National Centre for Infectious Diseases (NCID), Singapore. Prof Leo Yee Sin, Executive Director of NCID and PREPARE’s Steering Committee Member, met the Honorary Jaala Pulford, Minister for Innovation, Medical Research and the Digital Economy on 8 July 2022 along with Senior Leaders from NCID."
+    },
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Read more about our events and highlights here.",
+    "category": "Events & Highlights",
+    "date": "8 Jul 2022",
+    "image": {
+      "src": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-5-1_original.jpg?sfvrsn=318dfd86_0",
+      "alt": "Image of the delegation visit"
+    },
+    "articlePageHeader": {
+      "summary": [
+        "PREPARE was delighted to be featured during a recent delegation visit by representatives of the Victoria State Government in Australia to the National Centre for Infectious Diseases (NCID), Singapore. Prof Leo Yee Sin, Executive Director of NCID and PREPARE’s Steering Committee Member, met the Honorary Jaala Pulford, Minister for Innovation, Medical Research and the Digital Economy on 8 July 2022 along with Senior Leaders from NCID."
+      ]
+    }
+  },
+  "version": "0.1.0"
+}
