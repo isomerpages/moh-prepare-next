@@ -44,7 +44,7 @@
         }
       ]
     },
-     {
+    {
       "type": "paragraph",
       "content": [
         {
@@ -74,7 +74,7 @@
         }
       ]
     },
-        {
+    {
       "type": "heading",
       "content": [
         {
@@ -86,7 +86,7 @@
       "level": 3
     },
     {
-      "type": "orderedlist",
+      "type": "orderedList",
       "start": 1,
       "content": [
         {
@@ -162,8 +162,8 @@
       ],
       "level": 3
     },
-        {
-      "type": "orderedlist",
+    {
+      "type": "orderedList",
       "start": 1,
       "content": [
         {
@@ -239,7 +239,7 @@
       ],
       "level": 2
     },
-        {
+    {
       "type": "heading",
       "content": [
         {
@@ -285,7 +285,7 @@
       ],
       "level": 3
     },
-        {
+    {
       "type": "infocards",
       "variant": "top",
       "cards": [
@@ -459,7 +459,7 @@
       ],
       "level": 3
     },
-        {
+    {
       "type": "image",
       "src": "https://www.moh.gov.sg/images/librariesprovider11/default-album/office-image.png?sfvrsn=fe232168_2",
       "alt": "Image of the Programme office members",

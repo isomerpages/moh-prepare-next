@@ -52,7 +52,7 @@
       "alt": "Image of dinner with PREPARE IAP and EXCO, hosted by former Chief Health Scientist Prof Tan Chorh Chuan",
       "width": 100
     },
-        {
+    {
       "type": "paragraph",
       "content": [
         {
@@ -109,8 +109,8 @@
         }
       ]
     },
-        {
-      "type": "unorderedlist",
+    {
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -180,7 +180,7 @@
         }
       ]
     },
-        {
+    {
       "type": "image",
       "details": [
         {

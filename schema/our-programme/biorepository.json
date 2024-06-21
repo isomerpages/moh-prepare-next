@@ -75,7 +75,7 @@
       "level": 2
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -139,7 +139,7 @@
       "level": 2
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -227,7 +227,7 @@
         }
       ]
     }
- ],
+  ],
   "page": {
     "title": "Biorepository",
     "contentPageHeader": {

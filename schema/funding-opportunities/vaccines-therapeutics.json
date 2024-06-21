@@ -11,7 +11,7 @@
         }
       ]
     },
-        {
+    {
       "type": "paragraph",
       "content": [
         {
@@ -94,7 +94,7 @@
         }
       ]
     },
-        {
+    {
       "type": "divider"
     },
     {
@@ -109,7 +109,7 @@
       "level": 2
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -127,7 +127,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -162,7 +162,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -197,7 +197,7 @@
           ]
         },
         {
-          "type": "orderedlist",
+          "type": "orderedList",
           "start": 1,
           "content": [
             {
@@ -254,8 +254,8 @@
         }
       ]
     },
-        {
-      "type": "unorderedlist",
+    {
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -385,7 +385,7 @@
       ]
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -403,7 +403,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -438,7 +438,7 @@
           ]
         },
         {
-          "type": "orderedlist",
+          "type": "orderedList",
           "start": 1,
           "content": [
             {
@@ -525,7 +525,7 @@
         }
       ]
     }
- ],
+  ],
   "page": {
     "title": "Vaccines & Therapeutics",
     "contentPageHeader": {

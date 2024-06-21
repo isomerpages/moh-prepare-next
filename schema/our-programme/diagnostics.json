@@ -68,11 +68,11 @@
       "level": 2
     },
     {
-      "type": "orderedlist",
+      "type": "orderedList",
       "start": 1,
       "content": [
         {
-          "type": "orderedlist",
+          "type": "orderedList",
           "start": 1,
           "content": [
             {
@@ -164,11 +164,11 @@
       ]
     },
     {
-      "type": "orderedlist",
+      "type": "orderedList",
       "start": 1,
       "content": [
         {
-          "type": "orderedlist",
+          "type": "orderedList",
           "start": 1,
           "content": [
             {

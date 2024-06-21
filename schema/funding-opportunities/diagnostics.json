@@ -41,8 +41,8 @@
         }
       ]
     },
-        {
-      "type": "orderedlist",
+    {
+      "type": "orderedList",
       "start": 1,
       "content": [
         {
@@ -103,7 +103,7 @@
       "level": 3
     },
     {
-      "type": "orderedlist",
+      "type": "orderedList",
       "details": [
         {
           "type": "divider"
@@ -127,7 +127,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -280,7 +280,7 @@
       "level": 3
     },
     {
-      "type": "orderedlist",
+      "type": "orderedList",
       "start": 1,
       "content": [
         {
@@ -364,7 +364,7 @@
     {
       "type": "divider"
     },
-        {
+    {
       "type": "heading",
       "content": [
         {
@@ -375,8 +375,8 @@
       ],
       "level": 2
     },
-        {
-      "type": "unorderedlist",
+    {
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -394,7 +394,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -429,7 +429,7 @@
           ]
         },
         {
-          "type": "unorderedlist",
+          "type": "unorderedList",
           "content": [
             {
               "type": "listItem",
@@ -464,7 +464,7 @@
           ]
         },
         {
-          "type": "orderedlist",
+          "type": "orderedList",
           "start": 1,
           "content": [
             {
@@ -536,7 +536,7 @@
         }
       ]
     }
- ],
+  ],
   "page": {
     "title": "Diagnostics",
     "contentPageHeader": {

@@ -97,8 +97,8 @@
         }
       ]
     },
-        {
-      "type": "unorderedlist",
+    {
+      "type": "unorderedList",
       "content": [
         {
           "type": "listItem",
@@ -152,7 +152,7 @@
         }
       ]
     },
-        {
+    {
       "type": "divider"
     },
     {
@@ -167,7 +167,7 @@
       "level": 2
     },
     {
-      "type": "unorderedlist",
+      "type": "unorderedList",
       "details": [
         {
           "type": "divider"
@@ -190,7 +190,7 @@
           ]
         },
         {
-          "type": "orderedlist",
+          "type": "orderedList",
           "start": 1,
           "content": [
             {
@@ -209,7 +209,7 @@
               ]
             },
             {
-              "type": "unorderedlist",
+              "type": "unorderedList",
               "content": [
                 {
                   "type": "listItem",
@@ -259,7 +259,7 @@
               ]
             },
             {
-              "type": "unorderedlist",
+              "type": "unorderedList",
               "content": [
                 {
                   "type": "listItem",
@@ -377,7 +377,7 @@
         }
       ]
     }
- ],
+  ],
   "page": {
     "title": "Environmental Transmission & Mitigation",
     "contentPageHeader": {
