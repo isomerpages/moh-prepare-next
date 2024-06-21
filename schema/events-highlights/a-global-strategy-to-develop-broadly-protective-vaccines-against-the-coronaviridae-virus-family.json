@@ -1,0 +1,90 @@
+{
+  "layout": "article",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "As a member of the CVR taskforce, PREPARE Executive Director Prof Wang Linfa actively contributed to the development of the CVR. “We may want to be done with coronaviruses, but coronaviruses are not done with us. At this point in history, complacency is our greatest enemy,” said Prof Wang, in a recent news release on the CVR by <a href='https://imsva91-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2ftwin%2dcities.umn.edu%2fnews%2devents%2fcidrap%2dreleases%2dcoronavirus%2dvaccines%2dr%2dd%2droadmap%2dadvance%2dnew%2dglobal%2dstrategy%2dbroadly&umid=3FEAEDC3-F536-6005-977B-44DF65A81228&auth=6e3fe59570831a389716849e93b5d483c90c3fe4-7295cf10387b97e699c835adcd8fbe38411d502d'>CIDRAP</a>. “It is critical that we start now to develop vaccines that are future-ready for coronaviruses circulating in animals now that might infect humans and cause pandemics in the future as SARS-CoV-3 and beyond."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The CVR provides a holistic view of the myriad of complex scientific and policy issues that are important to address when generating broadly protective coronavirus vaccines that are suitable for global use, and protective against existing coronaviruses known to cause serious disease in humans, as well as against pre-emergent coronaviruses that may have the potential to spill over from zoonotic reservoirs to human."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The full CVR document can be found <a href='https://cvr.cidrap.umn.edu/roadmap'>here</a>."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "details": [
+        {
+          "type": "divider"
+        }
+      ],
+      "src": "https://www.moh.gov.sg/images/librariesprovider11/default-album/cvr-infographic.png?sfvrsn=ddfe49ef_3",
+      "alt": "Infographic accredited to the Center for Infectious Disease Research and Policy at the University of Minnesota",
+      "width": 100
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<i>Infographic accredited to the Center for Infectious Disease Research and Policy at the University of Minnesota</i>"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<a href='https://cvr.cidrap.umn.edu/about-cvr'>Visit site here.</a>"
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "A Global Strategy to Develop Broadly Protective Vaccines Against the Coronaviridae Virus Family",
+    "contentPageHeader": {
+      "summary": "On 21 February 2023, the Center for Infectious Disease Research and Policy (CIDRAP) at the University of Minnesota released the Coronavirus Vaccines Research and Development (R&D) Roadmap (CVR), with the ultimate goal to generate a broadly protective vaccine against species and strains of the Coronaviridae virus family. The CVR will serve as a global strategic planning tool to facilitate R&D, coordinate funding, and promote stakeholder engagement. The CVR development was led by CIDRAP, with funding from the Bill & Melinda Gates Foundation (BMGF) and The Rockefeller Foundation."
+    },
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Read more about our events and highlights here.",
+    "category": "Events & Highlights",
+    "date": "13 Mar 2023",
+    "image": {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQL-sk9PNzY9FM3WnSMROFrypXTRLu3Vzsxw&s",
+      "alt": "CVR logo"
+    },
+    "articlePageHeader": {
+      "summary": [
+        "On 21 February 2023, the Center for Infectious Disease Research and Policy (CIDRAP) at the University of Minnesota released the Coronavirus Vaccines Research and Development (R&D) Roadmap (CVR), with the ultimate goal to generate a broadly protective vaccine against species and strains of the Coronaviridae virus family. The CVR will serve as a global strategic planning tool to facilitate R&D, coordinate funding, and promote stakeholder engagement. The CVR development was led by CIDRAP, with funding from the Bill & Melinda Gates Foundation (BMGF) and The Rockefeller Foundation."
+      ]
+    }
+  },
+  "version": "0.1.0"
+}
