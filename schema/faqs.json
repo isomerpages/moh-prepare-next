@@ -1,0 +1,60 @@
+{
+  "layout": "content",
+  "content": [
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "Under the oversight of the Ministry of Health (MOH), PREPARE will establish a national R&D plan that sets out key R&D goals and strategies to support epidemic preparedness and response. It will forge strong and synergistic partnerships, integrating multidisciplinary sectors and making necessary preparations during periods of normalcy for rapid transition and action during an epidemic. Additionally, PREPARE will actively facilitate and expedite research discoveries into approved diagnostic kits and therapeutic agents, manufactured at scale."
+            }
+          ]
+        }
+      ],
+      "summary": "How is PREPARE going to make Singapore more resilient against the next pandemic?"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "While our R&D capabilities and peacetime preparations has served us well during the COVID-19 epidemic, there is a dire need to extend collaborating groups to a wider base of relevant researchers across Singapore, incorporating 5 co-operatives working on priority platforms under PREPARE to further strengthen mid- and long-term R&D capabilities to prepare and respond to future epidemics. PREPARE is also investing in regional collaborative networks by establishing regional clinical research, trial and exchange programme networks to build resilience and preparedness.  "
+            }
+          ]
+        }
+      ],
+      "summary": "How is PREPARE different from other programmes and how does it interact with other programmes and groups, both in Singapore and in the region?"
+    },
+    {
+      "type": "accordion",
+      "details": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "marks": [],
+              "text": "PREPARE is committed to quickly strengthen essential research capabilities, translational platforms and expertise to detect, respond to and contain future infectious disease threats. Consequently, PREPARE hopes to achieve 4 desired outcomes: (1) enhance early detection and sense-making capabilities of potential threats; (2) develop or strengthen key enablers in data infrastructure, analytics, and behavioural science research; (3) reinforce capabilities for accelerated development of diagnostics, therapeutics and vaccines; and (4) develop strong regional infectious diseases collaboration networks."
+            }
+          ]
+        }
+      ],
+      "summary": "What results can we expect from PREPARE?"
+    }
+ ],
+  "page": {
+    "title": "FAQs",
+    "contentPageHeader": {
+      "summary": "Read our frequently asked questions here."
+    }
+  },
+  "version": "0.1.0"
+}
