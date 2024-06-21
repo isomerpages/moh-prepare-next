@@ -1,0 +1,123 @@
+{
+  "layout": "content",
+  "content": [
+    {
+      "type": "iframe",
+      "title": "Google map",
+      "content": "<iframe title=\"myFrame\" width=\"100%\" height=\"100%\" src=\"https://maps.google.com/maps?q=Ng%20Teng%20Fong%20Centre%20for%20Healthcare%20Innovation%20%28CHI%29%2018%20Jln%20Tan%20Tock%20Seng%2C%20Singapore%20308443&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed\" frameborder=\"0\" style=\"border:0;\"></iframe>"
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Mailing Address"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "PREPARE Programme Office"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Ng Teng Fong Centre for Healthcare Innovation (CHI)</br>18 Jln Tan Tock Seng Level 2</br>Infectious Diseases Research and Training Office (IDRTO)</br>Singapore 308443"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Email Address"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "General Email"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<a href='mailto:PREPARE@ncid.sg'>PREPARE@ncid.sg</a>"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Grant Matters Email"
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<a href='mailto:PREPARE_Grants@ncid.sg'>PREPARE_Grants@ncid.sg</a>"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "FAQs"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "For frequently asked questions, click <a href='/faqs'>here</a>."
+        }
+      ]
+    }
+ ],
+  "page": {
+    "title": "Contact Us",
+    "contentPageHeader": {
+      "summary": "Get in touch with us."
+    }
+  },
+  "version": "0.1.0"
+}
