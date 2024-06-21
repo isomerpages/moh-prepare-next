@@ -1,112 +1,86 @@
 {
-  "version": "0.1.0",
-  "layout": "homepage",
-  "page": {
-    "title": "PREPARE"
-  },
+  "layout": "article",
   "content": [
-    {
-      "type": "hero",
-      "variant": "gradient",
-      "alignment": "left",
-      "backgroundColor": "black",
-      "title": "PREPARE",
-      "subtitle": "Programme for Research in Epidemic Preparedness and Response (PREPARE) is a national programme set up by the Ministry of Health (MOH) to support and strengthen Singapore’s key research capabilities, translational platforms, and expertise to develop tools, methods and products that can be tapped on to detect, respond to, and contain future infectious disease threats. The National Centre for Infectious Diseases (NCID) serves as the administrative host of PREPARE.",
-      "buttonLabel": "Learn more about PREPARE",
-      "buttonUrl": "/about-us",
-      "backgroundUrl": "https://freerangestock.com/sample/147316/top-view-of-team-hands-together--hands-in-with-copyspace.jpg"
+        {
+      "type": "image",
+      "src": "https://www.moh.gov.sg/images/librariesprovider11/default-album/batprotect.png?sfvrsn=463740d1_0",
+      "alt": "Image of from left to right: Professors Michael Hiller, Emma Teeling, Linfa Wang and Björn Schumacher",
+      "width": 100
     },
     {
-      "type": "heading",
+      "type": "paragraph",
       "content": [
         {
           "type": "text",
           "marks": [],
-          "text": "Events & Highlights"
+          "text": "<i>From left to right: Professors Michael Hiller, Emma Teeling, Linfa Wang and Björn Schumacher</i>"
         }
-      ],
-      "level": 2
+      ]
     },
     {
-      "type": "infopic",
-      "title": "International team studies bats to make advancements in our understanding of human ageing and disease resistance",
-      "subtitle": "21 Nov 2023",
-      "description": "‘BATPROTECT’, a project led by Professor Emma Teeling from University College Dublin, has been awarded €11.9 million by the European Research Council (ERC) Synergy Grant to investigate the genetic and biochemical factors that enable bats to resist diseases and live longer and healthier lives.",
-      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider11/default-album/batprotect.png?sfvrsn=463740d1_0",
-      "imageAlt": "Image of, from left to right: Professors Michael Hiller, Emma Teeling, Linfa Wang and Björn Schumacher",
-      "buttonLabel": "More on BATPROTECT",
-      "buttonUrl": "/event-highlights/international-team-studies-bats-to-make-advancements-in-our-understanding-of-human-ageing-and-disease-resistance",
-      "isTextOnRight": false,
-      "variant": "side-by-side"
-    },
-     {
-      "type": "infopic",
-      "title": "1st China-Singapore Experts Workshop on Pandemic Sciences",
-      "subtitle": "29 Sep 2023",
-      "description": "As part of joint efforts to strengthen scientific collaborations, the National Research Foundation, Singapore (NRF-SG) and the Ministry of Science and Technology, China (MOST-CN) are supporting a series of joint workshops on global challenges such as health and sustainability.",
-      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider11/default-album/1grp.jpg?sfvrsn=90c3c036_0",
-      "imageAlt": "Image of the opening of the 1st China-Singapore Experts’ Workshop on Pandemic Sciences, Singapore, 20 September 2023",
-      "buttonLabel": "More on the workshops",
-      "buttonUrl": "/event-highlights/1st-china-singapore-experts-workshop-on-pandemic-sciences-september-2023",
-      "isTextOnRight": false,
-      "variant": "side-by-side"
-    },
-         {
-      "type": "infopic",
-      "title": "PREPARE International Advisory Panel (IAP) Review Meeting",
-      "subtitle": "15 Sep 2023",
-      "description": "During the three-day meeting, the IAP and PREPARE Executive Committee (EXCO) focused on the progress made by the PREPARE Co-Operatives and Cores over the past year, with the IAP providing valuable feedback and advice on PREPARE’s future directions.",
-      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider11/default-album/iap-group-dinner.png?sfvrsn=b3906de0_0",
-      "imageAlt": "Image of dinner with PREPARE IAP and EXCO, hosted by former Chief Health Scientist Prof Tan Chorh Chuan",
-      "buttonLabel": "More on the meeting",
-      "buttonUrl": "/event-highlights/prepare-international-advisory-panel-(iap)-review-meeting-11-13-september-2023",
-      "isTextOnRight": false,
-      "variant": "side-by-side"
+      "type": "divider"
     },
     {
-      "type": "heading",
+      "type": "paragraph",
       "content": [
         {
           "type": "text",
           "marks": [],
-          "text": "PREPARE is supported by"
+          "text": "With the ERC funding the project over a period of six years, ‘BATPROTECT’ will bring together 22 leading experts and researchers from Europe and Asia with expertise spanning bat biology, virology, immunology, genomics, and gerontology. Professor Wang Linfa, Executive Director of PREPARE and a Professor in the Programme in Emerging Infectious Diseases at Duke-NUS Medical School, is a member of the team and will be contributing his expertise in zoonoses and bat immunology."
         }
-      ],
-      "level": 2
+      ]
     },
     {
-      "type": "infocards",
-      "variant": "top",
-      "cards": [
+      "type": "paragraph",
+      "content": [
         {
-          "title": "Ministry of Health (MOH)",
-          "url": "https://www.moh.gov.sg/",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/MOH_Logo.svg/1200px-MOH_Logo.svg.png",
-          "imageAlt": "Image of MOH logo"
-        },
+          "type": "text",
+          "marks": [],
+          "text": "<a href='https://sciencex.com/wire-news/459763018/european-funding-for-irish-led-research-that-could-unlock-the-se.html'>More details of the BATPROTECT project can be found here.</a>"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
         {
-          "title": "National Research Foundation (NRF)",
-          "url": "https://www.nrf.gov.sg/",
-          "imageUrl": "https://www.nrf.gov.sg/images/nrf%20logo%20fa-monogram.jpg",
-          "imageAlt": "Image of NRF logo"
-        },
+          "type": "text",
+          "marks": [],
+          "text": "The ERC Synergy Grant is a funding scheme that supports collaborative research projects involving Principal Investigators from different disciplines. It is a part of the European Union’s research and innovation programme, Horizon Europe, and aims to address complex research problems and push the boundaries of knowledge by bringing together diverse skills, knowledge, and resources."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
         {
-          "url": "https://nmrc.gov.sg/",
-          "imageUrl": "https://www.singhealthdukenus.com.sg/research/PublishingImages/agency%20logos/NMRC.jpg",
-          "imageAlt": "Image of NMRC logo",
-          "title": "National Medical Research Council (NMRC)"
-        },
-        {
-          "title": "National Centre for Infectious Diseases (NCID)",
-          "url": "https://www.ncid.sg/",
-          "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_nD3mfLw-z75epwELBDZcOgn6K9klqPNhU3WUc0E9PQ6Q=s900-c-k-c0x00ffffff-no-rj",
-          "imageAlt": "Image of NCID logo"
+          "type": "text",
+          "marks": [],
+          "text": "<a href='https://erc.europa.eu/news-events/news/erc-2023-synergy-grants-results'>More information on the ERC Synergy Grant can be found here.</a>"
         }
       ]
     }
   ],
-   "version": "0.1.0",
   "page": {
-    "title": "PREPARE"
-  }
+    "title": "International team studies bats to make advancements in our understanding of human ageing and disease resistance",
+    "contentPageHeader": {
+      "summary": "Learn more about PREPARE here."
+    },
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Read more about our events and highlights here.",
+    "category": "Events & Highlights",
+    "date": "21 Nov 2023",
+    "image": {
+      "src": "https://www.moh.gov.sg/images/librariesprovider11/default-album/batprotect.png?sfvrsn=463740d1_0",
+      "alt": "Image of from left to right: Professors Michael Hiller, Emma Teeling, Linfa Wang and Björn Schumacher"
+    },
+    "articlePageHeader": {
+      "summary": [
+        "‘BATPROTECT’, a project led by Professor Emma Teeling from University College Dublin, has been awarded €11.9 million by the European Research Council (ERC) Synergy Grant to investigate the genetic and biochemical factors that enable bats to resist diseases and live longer and healthier lives.",
+        "The understanding of these molecular mechanisms in bats could open new frontiers for improving human health, disease outcomes, and future therapeutics."
+      ]
+    }
+  },
+  "version": "0.1.0"
 }
