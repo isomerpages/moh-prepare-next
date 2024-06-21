@@ -1,0 +1,67 @@
+{
+  "layout": "article",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "With the ERC funding the project over a period of six years, ‘BATPROTECT’ will bring together 22 leading experts and researchers from Europe and Asia with expertise spanning bat biology, virology, immunology, genomics, and gerontology. Professor Wang Linfa, Executive Director of PREPARE and a Professor in the Programme in Emerging Infectious Diseases at Duke-NUS Medical School, is a member of the team and will be contributing his expertise in zoonoses and bat immunology."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<a href='https://sciencex.com/wire-news/459763018/european-funding-for-irish-led-research-that-could-unlock-the-se.html'>More details of the BATPROTECT project can be found here.</a>"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The ERC Synergy Grant is a funding scheme that supports collaborative research projects involving Principal Investigators from different disciplines. It is a part of the European Union’s research and innovation programme, Horizon Europe, and aims to address complex research problems and push the boundaries of knowledge by bringing together diverse skills, knowledge, and resources."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<a href='https://erc.europa.eu/news-events/news/erc-2023-synergy-grants-results'>More information on the ERC Synergy Grant can be found here.</a>"
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "International team studies bats to make advancements in our understanding of human ageing and disease resistance",
+    "contentPageHeader": {
+      "summary": "Learn more about PREPARE here."
+    },
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Read more about our events and highlights here.",
+    "category": "Events & Highlights",
+    "date": "21 Nov 2023",
+    "image": {
+      "src": "https://www.moh.gov.sg/images/librariesprovider11/default-album/batprotect.png?sfvrsn=463740d1_0",
+      "alt": "Image of from left to right: Professors Michael Hiller, Emma Teeling, Linfa Wang and Björn Schumacher"
+    },
+    "articlePageHeader": {
+      "summary": [
+        "‘BATPROTECT’, a project led by Professor Emma Teeling from University College Dublin, has been awarded €11.9 million by the European Research Council (ERC) Synergy Grant to investigate the genetic and biochemical factors that enable bats to resist diseases and live longer and healthier lives.",
+        "The understanding of these molecular mechanisms in bats could open new frontiers for improving human health, disease outcomes, and future therapeutics."
+      ]
+    }
+  },
+  "version": "0.1.0"
+}
