@@ -1,0 +1,143 @@
+{
+  "layout": "article",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The session was open to all researchers, clinicians and administrators across healthcare including academia, public and private hospitals, industries as well as ministries. We received over 363 registrations for this event, with 339 participants attending the roadshow via Zoom."
+        }
+      ]
+    },
+        {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "PREPARE was featured through a series of short presentations from PREPARE Executive Director Prof Wang Linfa, and the respective Co-Operative and Core Leads. The session was moderated by PREPARE Deputy Executive Director Prof David Lye. Prof Wang introduced the participants to PREPARE and its role in Singapore’s mitigation and response/control plan for pandemic preparedness. Prof Wang also explained PREPARE’s key objectives and how the five Co-operatives and two Cores will work together to achieve these objectives."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-1-1_original.jpg?sfvrsn=54ca19ca_0",
+      "alt": "Image of PREPARE's Executive Committee Members sharing at the NCID Monthly Research Meeting",
+      "width": 100
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<i>PREPARE's Executive Committee Members sharing at the NCID Monthly Research Meeting.</i>"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<i>Top Row (left to right): Prof David Lye, Deputy Executive Director, PREPARE; A/Prof Sylvie Alonso, Lead of Vaccines & Therapeutics Co-operative; Dr Barnaby Young, Lead of Databases Core;</br> Middle Row (left to right): Prof Wang Linfa, Executive Director, PREPARE; A/Prof Yeo Tsin Wen, Lead of Regional Networks Co-operative; Dr Shawn Vasoo, Lead of Biorepository Core;</br> Bottom Row (left to right): Dr Sidney Yee, Lead of Diagnostics Co-operative; Dr Kang Chang Wei, Lead of Environmental Transmission & Mitigation Co-operative; A/Prof Kelvin Bryan Tan, Lead of Analytics, Disease & Behaviour Modelling Co-operative</i>"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "image",
+      "src": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-1-2_original.jpg?sfvrsn=7e4fe0ea_0",
+      "alt": "Image of Executive Director, Prof Wang Linfa, introduces PREPARE to the participants",
+      "width": 100
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<i>Executive Director, Prof Wang Linfa, introduces PREPARE to the participants.</i>"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Participants then heard directly from each Co-operative and Core Leads. The Leads shed light on the objectives, desired outcomes and work plan for their respective programmes. Through this virtual roadshow, participants were also given a sneak peek into PREPARE’s upcoming grant calls to be announced in the coming months."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-1-3_original.jpg?sfvrsn=96e3820c_0",
+      "alt": "Image of A/Prof Sylvie Alonso, Lead of the Vaccines & Therapeutics (V&T) Co-operative shares more about her V&T Programme's objectives and workplan to the participants",
+      "width": 100
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "<i> A/Prof Sylvie Alonso, Lead of the Vaccines & Therapeutics (V&T) Co-operative shares more about her V&T Programme's objectives and workplan to the participants.</i>"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Participants were keen to learn more about PREPARE and collaborate for future projects. There were also several post-meeting queries on the grant announcements."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "For more information, head over to our <a href='/about-us'>About Us</a> and <a href='/funding-opportunities'>Grants</a> page. For other enquiries, you may contact us at <a href='mailto:PREPARE@ncid.sg'>PREPARE@ncid.sg</a>."
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "PREPARE Roadshow @ NCID Monthly Research Meeting",
+    "contentPageHeader": {
+      "summary": "PREPARE was invited to speak at the Monthly Research Meeting organised by the National Centre for Infectious Diseases (NCID), Singapore, on 18 Mar 2022 (Fri). This meeting is held every 3rd Friday of the month and aims to i) inspire research ideas and participation, ii) provide guidance on research studies and iii) foster research collaborations."
+    },
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Read more about our events and highlights here.",
+    "category": "Events & Highlights",
+    "date": "18 Mar 2022",
+    "image": {
+      "src": "https://www.moh.gov.sg/images/librariesprovider11/default-album/image-1-1_original.jpg?sfvrsn=54ca19ca_0",
+      "alt": "Image of the PREPARE's Executive Committee Members sharing at the NCID Monthly Research Meeting"
+    },
+    "articlePageHeader": {
+      "summary": [
+        "PREPARE was invited to speak at the Monthly Research Meeting organised by the National Centre for Infectious Diseases (NCID), Singapore, on 18 Mar 2022 (Fri). This meeting is held every 3rd Friday of the month and aims to i) inspire research ideas and participation, ii) provide guidance on research studies and iii) foster research collaborations."
+      ]
+    }
+  },
+  "version": "0.1.0"
+}
