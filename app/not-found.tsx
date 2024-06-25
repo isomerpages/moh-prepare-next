@@ -55,7 +55,6 @@ const NotFound = () => {
           // @ts-expect-error blah
           siteMap: sitemap,
           navBarItems: navbar,
-          // @ts-expect-error blah
           footerItems: footer,
         }}
         layout="notfound"
