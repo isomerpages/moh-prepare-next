@@ -101,7 +101,6 @@ const Page = async ({ params }: DynamicPageProps) => {
           environment: process.env.NEXT_PUBLIC_ISOMER_NEXT_ENVIRONMENT,
           siteMap: sitemap,
           navBarItems: navbar,
-          // @ts-expect-error blah
           footerItems: footer,
           lastUpdated,
         }}
