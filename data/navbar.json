@@ -39,7 +39,7 @@
   },
   {
     "name": "Funding Opportunities",
-    "url": "/funding-opportunities"
+    "url": "/funding-opportunities",
     "items": [
       {
         "name": "Diagnostics",
@@ -59,12 +59,12 @@
     "name": "Events & Highlights",
     "url": "/events-highlights"
   },
-    {
+  {
     "name": "Resources",
     "url": "/resources"
   },
-    {
+  {
     "name": "Contact Us",
     "url": "/contact-us"
   }
-    ]
+]
