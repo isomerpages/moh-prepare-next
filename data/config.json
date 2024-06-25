@@ -1,10 +1,10 @@
 {
   "site": {
-    "siteName": "Isomer",
-    "agencyName": "Open Government Products",
+    "siteName": "PREPARE",
+    "agencyName": "Ministry of Health",
     "theme": "isomer-next",
-    "logoUrl": "/images/isomer-logo.svg",
-    "favicon": "/images/favicon-isomer.ico",
+    "logoUrl": "https://www.moh.gov.sg/assets/MOH_NCID/images/logo-2.png",
+    "favicon": "https://www.moh.gov.sg/images/librariesprovider5/default-album/moh-logo-transparentb55b5ba4623b40ca92766ad149d7025e.tmb-small.png?Culture=en&sfvrsn=bce7aafe_1",
     "isGovernment": true,
     "search": {
       "type": "localSearch",
