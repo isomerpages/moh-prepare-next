@@ -35,7 +35,6 @@ export const generateMetadata = async (
     // @ts-expect-error blah
     siteMap: sitemap,
     navBarItems: navbar,
-    // @ts-expect-error blah
     footerItems: footer,
     lastUpdated,
   };
