@@ -20,7 +20,6 @@ export default function robots(): MetadataRoute.Robots {
       // @ts-expect-error blah
       siteMap: sitemap,
       navBarItems: navbar,
-      // @ts-expect-error blah
       footerItems: footer,
       lastUpdated,
     },
