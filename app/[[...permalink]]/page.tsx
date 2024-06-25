@@ -81,7 +81,6 @@ export const generateMetadata = async (
     // @ts-expect-error blah
     siteMap: sitemap,
     navBarItems: navbar,
-    // @ts-expect-error blah
     footerItems: footer,
     lastUpdated,
   };
@@ -99,6 +98,7 @@ const Page = async ({ params }: DynamicPageProps) => {
         site={{
           ...config.site,
           environment: process.env.NEXT_PUBLIC_ISOMER_NEXT_ENVIRONMENT,
+          // @ts-expect-error blah
           siteMap: sitemap,
           navBarItems: navbar,
           footerItems: footer,
