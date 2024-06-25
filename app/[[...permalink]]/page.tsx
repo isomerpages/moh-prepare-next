@@ -102,7 +102,6 @@ const Page = async ({ params }: DynamicPageProps) => {
           // @ts-expect-error blah
           siteMap: sitemap,
           navBarItems: navbar,
-          // @ts-expect-error blah
           footerItems: footer,
           lastUpdated,
         }}
